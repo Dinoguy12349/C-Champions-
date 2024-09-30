@@ -1,11 +1,14 @@
 #include <iostream>
 using namespace std;
 int main(){
+    //arithemtic
     int a=10;
     int b=5;
     cout<<a+b<<endl;
     cout<<a-b<<endl;
+    //print 6*3
     cout<<"6*3"<<endl;
+    //swap
     int var1=6;
     int var2=7;
     int hold;
